@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Новости</string>
+    <string name="category_activity">Категории</string>
+    <string name="head">Заголовок</string>
+    <string name="info">Невозможно получить новости</string>
+    <string name="time">Время</string>
+    <string name="text">Текст новости</string>
+    <string name="settings">Настройки</string>
+    <string name="error">Ошибка</string>
+    <string name="text_load">Загрузка, подождите</string>
+    <string name="button_1">Получить случайную новость</string>
+    <string name="button_2">Включить фоновое обновление</string>
+    <string name="button_3">Выключить фоновое обновление</string>
+
+    <string-array name="array_categories">
+        <item>auto</item>
+        <item>it</item>
+        <item>health</item>
+    </string-array>
+
+</resources>
